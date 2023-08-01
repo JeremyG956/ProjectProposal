@@ -1,5 +1,7 @@
 # HP Business Analyst Project Proposal
 
+![Intro_photo](intro.jpeg)
+
 # Introduction
 In the fast-paced and competitive landscape of today's business world, the ability to swiftly respond to emerging challenges and identify areas for improvement is crucial for any company aiming to gain a competitive advantage. As businesses consider undertaking new projects, they must navigate the delicate balance between time, money, and opportunity. Consequently, a data-driven approach becomes essential, with quantifiable results serving as the underlying foundation for decision-making. 
 
@@ -25,7 +27,46 @@ The project will encompass several key deliverables, each playing a crucial role
 5.	Context Diagrams: Utilizing an outside-in approach, context diagrams will highlight interactions and actions taken by users and the system, capturing the overall system complexity.
 6.	Data Flow Diagrams: Visual representations of data movement and processing within the system, facilitating a comprehensive understanding of information flows.
 
-After a thorough evaluation of the project, a project development methodology will be determined to get the project completed within a 6-month period.
+After a thorough evaluation of the project, a project development methodology will be determined given the time frame for the project and the amount of resources available.
+
+# Feasibility Report
+![Economic Feasibility](ROI.PNG)
+
+
+
+
+# Formal Project Proposal
+![Formal Project Proposal](system request.PNG)
+
+# Work Breakdown Structures
+![Intro_photo](intro.jpeg)
+
+# Staffing Plan
+
+# Event Response Map
+![Intro_photo](intro.jpeg)
+
+# Context Diagrams
+![Gerneral Context](contextdiagram.PNG)
+
+![Level0](Level 0 Diagram.PNG)
+
+![Level1](Level1Diagram.PNG)
+
+
+
+
+
+# Data Flow Diagrams
+![data_types](datattypes.PNG)
+
+![Intro_photo](intro.jpeg)
+
+
+
+
+
+
 
 
 
