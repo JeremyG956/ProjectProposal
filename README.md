@@ -39,9 +39,37 @@ After a thorough evaluation of the project, a project development methodology wi
 ![Formal Project Proposal](systemrequest.PNG)
 
 # Work Breakdown Structures
-![Intro_photo](intro.jpeg)
+![WBS](WBS.PNG)
 
 # Staffing Plan
+To successfully create the ticketing software for NPI orders, we will assemble a skilled and dedicated team comprising various roles to ensure a comprehensive development process. The project will require a total of 13 staff members. Let's break down the staffing requirements and roles:
+
+Software Engineers (5 members):
+A team of 5 experienced software engineers will be responsible for developing the ticketing software. Their expertise and creativity will be pivotal in delivering a robust and user-friendly solution.
+
+IT Members (5 members):
+Another team of 5 IT experts will work closely with the software engineers to ensure seamless compatibility with existing database software. They will also be responsible for ensuring compatibility with HTML for a web-based interface.
+
+NPI Staff Members (2 members):
+Two NPI staff members will actively participate in analyzing different versions of the software. Their feedback on user interface, ease of access, and other project-specific needs will be crucial for successful implementation.
+
+Kathy Thompson (NPI Senior VP):
+As the project sponsor, Kathy Thompson, the NPI Senior VP, will provide vital oversight, ensuring necessary checkpoints are met. Additionally, she will act as a communication bridge between the software engineers, IT staff, and experienced NPI team members.
+
+### Financial Requirements:
+
+In terms of financial allocations, we estimate a budget of $10,000 for development infrastructure, and an additional $25,000 for essential software licenses to synthesize the new software effectively.
+
+### Methodology Selection:
+
+Considering the project's tight timeframe of three months and the need for rapid product development, we have carefully evaluated different methodologies. Based on our assessment, we have decided to adopt the Iterative methodology for the product development lifecycle.
+
+Iterative methodology is well-suited for our requirements because it emphasizes quick development cycles while accommodating complex tasks. This will enable us to make continuous improvements and iterate upon the software in real-time. Moreover, it offers flexibility for staff members who might be less familiar with the technology, ensuring a smooth and adaptable development process.
+
+Furthermore, the Iterative methodology allows for incremental additions of advanced features ("bells and whistles") at later stages, providing room for future enhancements. With the chosen staffing plan and the adoption of the Iterative methodology, we are confident in delivering a high-quality ticketing software that will revolutionize NPI order management and drive efficiency across the organization.
+
+# Request for Quote
+![RFQ](requestforquote.PNG)
 
 
 # Event Response Map
