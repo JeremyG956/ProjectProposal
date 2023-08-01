@@ -36,12 +36,13 @@ After a thorough evaluation of the project, a project development methodology wi
 
 
 # Formal Project Proposal
-![Formal Project Proposal](system request.PNG)
+![Formal Project Proposal](systemrequest.PNG)
 
 # Work Breakdown Structures
 ![Intro_photo](intro.jpeg)
 
 # Staffing Plan
+
 
 # Event Response Map
 ![Intro_photo](intro.jpeg)
@@ -49,7 +50,7 @@ After a thorough evaluation of the project, a project development methodology wi
 # Context Diagrams
 ![Gerneral Context](contextdiagram.PNG)
 
-![Level0](Level 0 Diagram.PNG)
+![Level0](Level0Diagram.PNG)
 
 ![Level1](Level1Diagram.PNG)
 
