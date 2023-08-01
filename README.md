@@ -30,6 +30,9 @@ The project will encompass several key deliverables, each playing a crucial role
 After a thorough evaluation of the project, a project development methodology will be determined given the time frame for the project and the amount of resources available.
 
 # Feasibility Report
+![General Feasibility](feasability.PNG)
+
+
 ![Economic Feasibility](ROI.PNG)
 
 
@@ -37,6 +40,7 @@ After a thorough evaluation of the project, a project development methodology wi
 
 # Formal Project Proposal
 ![Formal Project Proposal](systemrequest.PNG)
+
 
 # Work Breakdown Structures
 ![WBS](WBS.PNG)
@@ -73,7 +77,8 @@ Furthermore, the Iterative methodology allows for incremental additions of advan
 
 
 # Event Response Map
-![Intro_photo](intro.jpeg)
+
+![EventResponseMap](eventresponseMap.PNG)
 
 # Context Diagrams
 ![Gerneral Context](contextdiagram.PNG)
@@ -89,7 +94,7 @@ Furthermore, the Iterative methodology allows for incremental additions of advan
 # Data Flow Diagrams
 ![data_types](datattypes.PNG)
 
-![Intro_photo](intro.jpeg)
+![DFD](physicalDFD.PNG)
 
 
 
