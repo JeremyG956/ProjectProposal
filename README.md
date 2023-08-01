@@ -23,9 +23,11 @@ The project will encompass several key deliverables, each playing a crucial role
 1.	Feasibility Report: A comprehensive assessment of the project's viability, considering technical, economic, operational, and scheduling aspects.
 2.	Formal Project Proposal: A detailed proposal outlining the project's scope, objectives, expected outcomes, resource requirements, and estimated timeline.
 3.	Work Breakdown Structures: A structured breakdown of tasks and activities, providing a clear schedule and project roadmap.
-4.	Event Response Map: A visual representation of potential events and their corresponding responses within the system, enabling proactive planning for system behavior.
-5.	Context Diagrams: Utilizing an outside-in approach, context diagrams will highlight interactions and actions taken by users and the system, capturing the overall system complexity.
-6.	Data Flow Diagrams: Visual representations of data movement and processing within the system, facilitating a comprehensive understanding of information flows.
+4.	Staffing Plan: a detailed explanation of who will be performing what work.
+5.	Request for Quote: a document outlining the cost of labor per department that aids in delivering a budget with greater predictability. 
+6.	Event Response Map: A visual representation of potential events and their corresponding responses within the system, enabling proactive planning for system behavior.
+7.	Context Diagrams: Utilizing an outside-in approach, context diagrams will highlight interactions and actions taken by users and the system, capturing the overall system complexity.
+8.	Data Flow Diagrams: Visual representations of data movement and processing within the system, facilitating a comprehensive understanding of information flows.
 
 After a thorough evaluation of the project, a project development methodology will be determined given the time frame for the project and the amount of resources available.
 
