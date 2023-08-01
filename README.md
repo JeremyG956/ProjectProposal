@@ -77,6 +77,7 @@ Furthermore, the Iterative methodology allows for incremental additions of advan
 
 
 # Event Response Map
+![EventResponseMap](Eventresponsechart.PNG)
 
 ![EventResponseMap](eventresponseMap.PNG)
 
